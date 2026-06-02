@@ -1,4 +1,4 @@
-# Write a program to Check whether a number is palindrome.
+# Write a program to Check whether a number is palindrom.
 
 num = input("Enter a number: ")
 reversed_num =  num[::-1]
