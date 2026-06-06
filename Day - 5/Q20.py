@@ -8,4 +8,3 @@ def prime_fact(num):
             print("factors are ",i)
 
 prime_fact(num)
-    
