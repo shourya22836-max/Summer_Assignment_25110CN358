@@ -9,6 +9,6 @@ num = abs(num)
 while num > 0:
     digit = num % 10 
     sum_digits += digit
-    num //= 10 
+    num //= 10
 
 print("sum of digits =", sum_digits)

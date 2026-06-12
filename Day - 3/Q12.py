@@ -15,6 +15,6 @@ print(lcm)
 
 
 
-# git add "Day - 3"
-# git commit -m "Add Day 1 files"
+# git add "Day - 10"
+# git commit -m "Add Day 10 files"
 # git push origin main
