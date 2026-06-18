@@ -13,3 +13,9 @@ for item in arr:
     print(item)
 
 print(arr)
+
+maximum = max(arr)
+minimum = min(arr)
+
+print("min of array elements =", minimum)
+print("max of array elements =", maximum)

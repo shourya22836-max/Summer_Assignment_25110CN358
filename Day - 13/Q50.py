@@ -12,4 +12,9 @@ print("Array elements are:")
 for item in arr:
     print(item)
 
+total = sum(arr)
 
+average = total / n
+
+print("Sum of array elements =", total)
+print("Average of array elements =", average)
