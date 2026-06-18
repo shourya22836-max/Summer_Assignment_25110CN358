@@ -1,0 +1,2 @@
+# Write a program to Find duplicates in array. 
+
